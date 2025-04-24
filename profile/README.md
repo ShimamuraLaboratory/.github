@@ -19,6 +19,7 @@
 ### Docs系
 
 - [Cloudflare-Server-Security-Docs](https://github.com/ShimamuraLaboratory/Cloudflare-Server-Security-Docs)
+    - このDocsにおける[ssh.md](https://github.com/ShimamuraLaboratory/Cloudflare-Server-Security-Docs/blob/main/ssh.md)は全メンバーが必ず目を通すようにしてください(SSH接続の設定の仕方等の説明があります)
 
 
 
