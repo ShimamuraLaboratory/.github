@@ -1,1 +1,0 @@
-# Shimamura-lab.github
